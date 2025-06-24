@@ -1,1 +1,3 @@
-# combat-simulator
+# Cosmic Combat Simulator
+
+## Coming soon
