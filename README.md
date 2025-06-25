@@ -145,9 +145,9 @@ Sprite and image assets are sourced from:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🎮 Screenshots
-![Main menu](../preview/main_menu.png)
-![Spacecraft selection menu](../preview/star_fighter_selection_menu.png)
-![Gameplay](../preview/gameplay.png)
+![Main menu](preview/main_menu.png)
+![Spacecraft selection menu](preview/star_fighter_selection_menu.png)
+![Gameplay](preview/gameplay.png)
 
 ---
 
